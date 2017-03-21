@@ -4,6 +4,8 @@
 
     Author: Riley Johnson| Instructor: Bo Zhao | TA: Andy Wilson | Location: 210 Wilkinson
 
+https://cdn.rawgit.com/johnsoRiB/SoccerInThePNW/fe3f22fe/soccerinthepnw.html
+
 This is a web map about soccer in the Pacific Northwest. Soccer is quickly gaining popularity in the United States but here in the Pacific Northwest, the game has had a substantial following for over 40 years. This web map serves to look at the history of the three major teams, Seattle Sounders FC, Vancouver Whitecaps FC, and the Portland Timbers by tracing where and when each team played. However, this web map also has another purpose. While it is important to acknowledge the impact that the three big teams have had in establishing the game in the Pacific Northwest, soccer has come a long way since then. The success of the United States Women's National Team has given rise to creation of professional women's soccer leagues, which have some of its strongest teams in the Pacific Northwest. The key part of this web map however, is the its intention to introduce localism. People love to cherish and support the three big teams because of their success and name recognition. While it is valuable to support these teams, recognizing that there are many smaller teams is just as important. This web map ties to show that while we can support the big three, looking closer reveals a multitude of other teams, both professional and amateur.
 
 The web map explores the history of the Seattle Sounders FC, Vancouver Whitecaps FC, Portland Timbers, the rivalries that make the Pacific Northwest unique, women's soccer, and all the current professional and amateur men's and women's teams that populate the Pacific Northwest.
