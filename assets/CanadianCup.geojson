@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Vancouver Whitecaps FC", "description": "Cascadia Cup, Canadian Championship", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -123.1207375, 49.2827291, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Toronto FC", "description": "Canadian Championship", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -79.4185622, 43.6332226, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Montreal Impact (Impact de Montreal)", "description": "Canadian Championship", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -73.5530323, 45.5622947, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "FC Edmonton", "description": "Canadian Championship", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -113.4909267, 53.544389, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ottawa Fury FC", "description": "", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -75.6834678, 45.3982089, 0.0 ] } }
+]
+}

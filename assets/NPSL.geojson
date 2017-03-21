@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "FC Mulhouse Portland", "description": "Men's Amateur Team ", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -122.6796484, 45.6000769, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kitsap SC", "description": "Men's Amateur Team ", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -122.6675338, 47.6323031, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "OSA FC", "description": "Men's Amateur Team ", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -122.2087825, 47.3749287, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PDX FC", "description": "Men's Amateur Team ", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -122.58696430000001, 45.4365526, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Pierce County FC", "description": "Men's Amateur Team ", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -122.1295269, 47.0675877, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Spokane SC Shadow ", "description": "Men's Amateur Team ", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -117.464318, 47.676861, 0.0 ] } }
+]
+}

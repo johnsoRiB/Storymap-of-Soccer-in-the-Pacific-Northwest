@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Vancouver Whitecaps FC", "description": "Cascadia Cup, Canadian Championship", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -123.1207375, 49.2827291, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Seattle Sounders FC", "description": "Cascadia Cup ", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -122.3320708, 47.6062095, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Portland Timbers", "description": "Cascadia Cup ", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Team": "Y", "description_1": null }, "geometry": { "type": "Point", "coordinates": [ -122.6764816, 45.5230622, 0.0 ] } }
+]
+}
